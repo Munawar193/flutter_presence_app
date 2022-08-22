@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "545414768867",
+    "project_id": "absen-online-app-a3bb8",
+    "storage_bucket": "absen-online-app-a3bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545414768867:android:229208e07e2fc030fbfdd6",
+        "android_client_info": {
+          "package_name": "com.example.absensi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545414768867-91u8q0q5ceoum25cbeshoqh6im0616uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1g9BfAOmFZOgQP92rgMKDgDez0Ujwhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545414768867-91u8q0q5ceoum25cbeshoqh6im0616uu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545414768867-fhpn46t50ffsavevvk515n76264l6j5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absenOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
